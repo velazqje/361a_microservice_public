@@ -1,0 +1,1 @@
+["American", "Asian Fusion", "Asian", "BBQ", "Burger", "Burgers", "Chinese", "Fast Food", "Latin American", "Mexican", "New Mexican", "Sandwich", "Wings"]
