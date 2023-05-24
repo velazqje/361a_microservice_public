@@ -6,7 +6,8 @@
 ```It is done, just awaiting comments, feedback, and concern.```
 
 3.	Where can your partner find instructions for using your microservice? You should have created these instructions as part of a previous assignment
-```The instructions are on the GitHub repo: ``` https://github.com/rayjsales/CS361-MicroServices/tree/main/category 
+```The instructions are on the GitHub repo: ``` https://github.com/rayjsales/CS361-MicroServices/tree/main/category (private)
+https://github.com/velazqje/361a_microservice_public (public)
 
 4.	How is your partner going to access your microservice? Should they get your code from GitHub? Should they run your code locally? Is your microservice hosted somewhere? Etc.
 ```The code is available from the GitHub repo above. It should be run locally. The default port I selected was 7777.```
